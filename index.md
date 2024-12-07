@@ -10,16 +10,52 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Reserach
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Supporting cognitive accessibility in online banking
 
-## Header 2
+Enrich social sharing for dementia
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Promoting eHealth literacy
 
+## Awards
+
+> Natural Sciences and Engineering Research Council of Canada (NSERC) Postdoctoral Fellowship 2023-25
+> 
+> EPIC‑AT Fellow 2023-24
+> 
+> Mitacs Accelerate Internship with the Bank of Canada 2022
+> 
+> Wolfe Chair Dissertation Fellowship 2021-22
+> 
+> FRQNT Doctoral Scholarship 2019-22
+
+## Degrees
+
+> Ph.D. in Information Studies, McGill University
+> 
+> Master of Information Studies, McGill University
+> 
+> B.Sc. in Educational Technology, Shanghai International Studies University
+
+## News
+### 2024:
+
+*   NOV: collaborates on a new AGE-WELL grant with Joanna McGrenere and Vered Shwartz
+*   OCT: co-organizes a fintech workshop at ASSETS’24
+*   MAY: serves on the ASSETS'24 Program Committee
+*   MAY: attends CHI'24 in Honolulu
+*   APR: speaks at the Thesis Finishers’ Roundtable by the McGill Writing Centre
+*   FEB: attends the DFP Hackathon at the University of Victoria
+
+### 2023:
+
+*   OCT: attends the AGE-WELL annual conference in Toronto
+*   SEPT: serves on the CHI’24 Program Committee
+
+
+
+<!---
 ### Header 3
 
 ```js
@@ -58,17 +94,6 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
 ### And an ordered list:
 
 1.  Item one
@@ -91,6 +116,10 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
+-->
+
+
+<!---
 
 ### Small image
 
@@ -100,24 +129,28 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
+-->
 
-### Definition lists can be used with HTML syntax.
+### Contact me
+
+* * *
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt></dt>
+<dd>jdai24@cs.ubc.ca</dd>
+<dd>@carrie-dai.bsky.social</dd>
+<dt></dt>
+<dd>www.linkedin.com/in/jiamin-carrie-dai</dd>
+<dt></dt>
+<dd>X669 ICICS/CS</dd>
+<dd>Department of Computer Science</dd>
+<dd>University of British Columbia</dd>
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+A proud member of the eDAPT Lab led by Dr Joanna McGrenere: 
 ```
 
 ```
-The final element.
+www.cs.ubc.ca/labs/edapt
 ```
