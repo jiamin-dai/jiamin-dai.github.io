@@ -182,7 +182,7 @@ end
 </dl>
 
 ```
-A proud member of the eDAPT Lab led by Dr Joanna McGrenere: 
+Proud member of the eDAPT Lab led by Dr Joanna McGrenere 
 ```
 
 ```
