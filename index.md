@@ -26,7 +26,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 > Natural Sciences and Engineering Research Council of Canada (NSERC) Postdoctoral Fellowship 2023-25
 > 
-> EPIC‑AT Fellow 2023-24
+> EPIC‑AT Postdoctoral Fellowship 2023-24
 > 
 > Mitacs Accelerate Internship with the Bank of Canada 2022
 > 
