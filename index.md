@@ -2,6 +2,8 @@
 
 Aging and Accessibility | Dementia and Cognitive Diversity | Social Computing | Financial Technology
 
+My research in HUMAN-COMPUTER INTERACTION (HCI) explores how technology can be designed for underrepresented user groups, including older adults and those with complex communication needs, to overcome everyday challenges and improve quality of life.
+
 ## Selected Projects
 
 Supporting older adults in online banking
