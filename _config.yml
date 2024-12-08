@@ -1,7 +1,7 @@
 title: Jiamin (Carrie) Dai, PhD
 logo: /assets/img/CHI2018 Day1-11_preview2.jpg
 description: Postdoctoral Fellow, Computer Science, University of British Columbia
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
