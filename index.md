@@ -47,6 +47,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## <img src="/assets/img/undraw_news_Happy_news_re_tsbd.png" width="64"> News 
 
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
 ### 2024:
 
 *   NOV: collaborate on a newly awarded AGE-WELL grant with Joanna McGrenere and Vered Shwartz
