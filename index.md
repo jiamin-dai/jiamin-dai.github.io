@@ -45,7 +45,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 ## News
 ### 2024:
 
-*   NOV: collaborate on a new AGE-WELL grant with Joanna McGrenere and Vered Shwartz
+*   NOV: collaborate on a newly awarded AGE-WELL grant with Joanna McGrenere and Vered Shwartz
 *   OCT: co-organize a fintech workshop at ASSETS’24
 *   MAY: serve on the ASSETS'24 Program Committee
 *   MAY: attend CHI'24 in Honolulu
