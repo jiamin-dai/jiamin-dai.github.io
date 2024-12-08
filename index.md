@@ -1,8 +1,8 @@
-# Human-Computer Interaction
+# Human-Computer Interaction Research
 
 Accessibility | Aging and Dementia | Social Computing | Financial Technology
 
-Supporting cognitive accessibility in online banking
+Supporting older adults in online banking
 
 Enrich social sharing for dementia
 
