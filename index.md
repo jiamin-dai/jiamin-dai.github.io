@@ -68,11 +68,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 *   Marino, D., **Dai, J.**, Fortin, P., Henry, M., and Cooperstock, J. (2024). [Co‑Here: An expressive videoconferencing module for implicit affective interaction](https://dl.acm.org/doi/10.1145/3670947.3670975). _Proceedings of the Graphics Interface Conference_ (GI’24), 1–13.
 
-*   **Dai, J.**, Miedema, J., Hernandez, S., Sutton‑Lalani, A., and Moffatt, K. (2023). Cognitive accessibility of digital payments: A literature review. Proceedings of 20th International Web for All Conference (W4A’23), 116–121. doi: 10.1145/3587281.3587294 _Best Communication Paper Nominee_
+*   **Dai, J.**, Miedema, J., Hernandez, S., Sutton‑Lalani, A., and Moffatt, K. (2023). [Cognitive accessibility of digital payments: A literature review](https://dl.acm.org/doi/10.1145/3587281.3587294). _Proceedings of 20th International Web for All Conference_ (W4A’23), 116–121. _Best Communication Paper Nominee_
 
-*   Sutton‑Lalani, A., Hernandez, S., Miedema, J., **Dai, J.**, and Omrane, B. (2023). Redefining financial inclusion for a digital age: Implications for a Central Bank Digital Currency. Bank of Canada Staff Discussion Paper, 23 pages. doi: 10.34989/sdp‑2
+*   Sutton‑Lalani, A., Hernandez, S., Miedema, J., **Dai, J.**, and Omrane, B. (2023). [Redefining financial inclusion for a digital age: Implications for a Central Bank Digital Currency](https://www.bankofcanada.ca/2023/10/staff-discussion-paper-2023-22/). _Bank of Canada Staff Discussion Paper_, 23 pages.
 
-*   **Dai, J.** and Moffatt, K. (2023). Enriching social sharing for the dementia community: Insights from in‑person and online social programs. ACM Transactions on Accessible Computing (TACCESS), 16(1), Article 11 (March 2023), 33 pages. doi: 10.1145/3582558
+*   **Dai, J.** and Moffatt, K. (2023). [Enriching social sharing for the dementia community: Insights from in‑person and online social programs](https://dl.acm.org/doi/10.1145/3582558). _ACM Transactions on Accessible Computing (TACCESS)_, 16(1), Article 11 (March 2023), 33 pages.
 
 *   **Dai, J.**, Bartlett, J. C., and Moffatt, K. (2023). Library services enriching community engagement for dementia care: The Tales & Travels Program at a Canadian Public Library as a case study. Journal of Librarianship and Information Science, 55(1), 123–136. doi:10.1177/09610006211065170
 
