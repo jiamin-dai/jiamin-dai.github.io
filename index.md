@@ -2,6 +2,8 @@
 
 Accessibility | Aging and Dementia | Social Computing | Financial Technology
 
+## Selected projects
+
 Supporting older adults in online banking
 
 Enrich social sharing for dementia
@@ -168,16 +170,12 @@ end
 <dl>
 <dt></dt>
 <dd>jdai24@cs.ubc.ca</dd>
-<dd>@carrie-dai.bsky.social</dd>
-<dt></dt>
-<dd>www.linkedin.com/in/jiamin-carrie-dai</dd>
-<dt></dt>
 <dd>X669 ICICS/CS</dd>
 <dd>Department of Computer Science</dd>
 <dd>University of British Columbia</dd>
 </dl>
 
 ```
-Proud member of [the eDAPT Lab](www.cs.ubc.ca/labs/edapt) led by Dr Joanna McGrenere 
+Proud member of <a href="https://www.cs.ubc.ca/labs/edapt">the eDAPT Lab</a>the eDAPT Lab led by Dr Joanna McGrenere 
 ```
 
