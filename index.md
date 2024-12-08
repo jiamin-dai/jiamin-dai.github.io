@@ -23,7 +23,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 -->
 
 
-## Awards ![awards](/assets/img/)
+## Awards <img src="/assets/img/undraw_awards_Balloons_re_8ymj.png" width="64">
 
 > Natural Sciences and Engineering Research Council of Canada (NSERC) Postdoctoral Fellowship 2023-25
 > 
