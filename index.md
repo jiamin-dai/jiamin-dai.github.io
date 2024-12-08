@@ -176,7 +176,9 @@ end
 <dd>Proud member of <a href="https://www.cs.ubc.ca/labs/edapt">the eDAPT Lab</a> led by Dr Joanna McGrenere</dd>
 </dl>
 
+<!---
 ```
  
 ```
+-->
 
