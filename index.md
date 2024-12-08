@@ -47,7 +47,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## <img src="/assets/img/undraw_news_Happy_news_re_tsbd.png" width="64"> News 
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![@CHI'24 in Honolulu](/assets/img/CHI24.jpg)
+@CHI'24 in Honolulu
 
 ### 2024:
 
