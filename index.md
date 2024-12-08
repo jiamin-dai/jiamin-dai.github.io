@@ -64,7 +64,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 *   **Dai, J.**, Gorman, B. M., Tigwell, G. W., Lyhme, H., Barros Pena, B., Moffatt, K., and Latulipe, C. (2024). <a href="https://dl.acm.org/doi/10.1145/3663548.3688551">accessFinTech: Designing accessible financial technology</a>. _The 26th International ACM SIGACCESS Conference on Computers and Accessibility_ (ASSETS ’24), 5 pages.
 
-*   Tanprasert, T., **Dai, J.**, and McGrenere, J. (2024). HelpCall: Designing informal technology assistance for older adults via videoconferencing. _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’24), 1–23. doi:10.1145/3613904.3642938
+*   Tanprasert, T., **Dai, J.**, and McGrenere, J. (2024). [HelpCall: Designing informal technology assistance for older adults via videoconferencing](https://dl.acm.org/doi/10.1145/3613904.3642938). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’24), 1–23.
 
 *   Marino, D., **Dai, J.**, Fortin, P., Henry, M., and Cooperstock, J. (2024). Co‑Here: An expressive videoconferencing module for implicit affective interaction. Proceedings of the Graphics Interface Conference (GI’24), 1–13. doi: 10.1145/3670947.3670975
 
