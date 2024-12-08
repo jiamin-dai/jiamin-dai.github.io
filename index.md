@@ -22,7 +22,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Link to another page](./another-page.html).
 -->
 
-## Awards
+
+## Awards ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 > Natural Sciences and Engineering Research Council of Canada (NSERC) Postdoctoral Fellowship 2023-25
 > 
@@ -34,7 +35,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 > 
 > FRQNT Doctoral Scholarship 2019-22
 
-## Degrees
+## Degrees ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 > Ph.D. in Information Studies, McGill University
 > 
@@ -42,7 +43,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 > 
 > B.Sc. in Educational Technology, Shanghai International Studies University
 
-## News
+## News ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 ### 2024:
 
 *   NOV: collaborate on a newly awarded AGE-WELL grant with Joanna McGrenere and Vered Shwartz
