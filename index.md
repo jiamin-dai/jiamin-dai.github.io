@@ -1,12 +1,12 @@
 # Human-Computer Interaction
 
-Aging & Accessibility | Dementia & Cognitive Diversity | Social Computing | Financial Technology
+Aging and Accessibility | Dementia and Cognitive Diversity | Social Computing | Financial Technology
 
 ## Selected projects
 
 Supporting older adults in online banking
 
-Enrich social sharing for dementia
+Enrich social sharing for the dementia community
 
 Promoting eHealth literacy
 
