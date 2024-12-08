@@ -71,7 +71,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 *   **Dai, J.**, Gorman, B. M., Tigwell, G. W., Lyhme, H., Barros Pena, B., Moffatt, K., and Latulipe, C. (2024). <a href="https://dl.acm.org/doi/10.1145/3663548.3688551">accessFinTech: Designing accessible financial technology</a>. _The 26th International ACM SIGACCESS Conference on Computers and Accessibility_ (ASSETS ’24), 5 pages.
 
-*   Tanprasert, T., **Dai, J.**, and McGrenere, J. (2024). [HelpCall: Designing informal technology assistance for older adults via videoconferencing](https://dl.acm.org/doi/10.1145/3613904.3642938). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’24), 1–23.
+*   Tanprasert, T., **Dai, J.**, and McGrenere, J. (2024). [HelpCall: Designing informal technology assistance for older adults via videoconferencing](https://dl.acm.org/doi/10.1145/3613904.3642938). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’24), 1–23. 
+ [[video]](https://www.youtube.com/watch?v=GBnbOQWjn0k)
 
 *   Marino, D., **Dai, J.**, Fortin, P., Henry, M., and Cooperstock, J. (2024). [Co‑Here: An expressive videoconferencing module for implicit affective interaction](https://dl.acm.org/doi/10.1145/3670947.3670975). _Proceedings of the Graphics Interface Conference_ (GI’24), 1–13.
 
@@ -83,13 +84,13 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 *   **Dai, J.**, Bartlett, J. C., and Moffatt, K. (2023). [Library services enriching community engagement for dementia care: The Tales & Travels Program at a Canadian Public Library as a case study](https://journals.sagepub.com/doi/full/10.1177/09610006211065170). Journal of Librarianship and Information Science, 55(1), 123–136.
 
-*   Fontana de Vargas, M., **Dai, J.**, and Moffatt, K. (2022). [AAC with automated vocabulary from photographs: Insights from school and speech‑language therapy settings](https://dl.acm.org/doi/10.1145/3517428.3544805). _Proceedings of the ACM SIGACCESS Conference on Computers and Accessibility_ (ASSETS’22), 1‑18. **Best Student Paper & Best Artifact Award**
+*   Fontana de Vargas, M., **Dai, J.**, and Moffatt, K. (2022). [AAC with automated vocabulary from photographs: Insights from school and speech‑language therapy settings](https://dl.acm.org/doi/10.1145/3517428.3544805). _Proceedings of the ACM SIGACCESS Conference on Computers and Accessibility_ (ASSETS’22), 1‑18. **Best Student Paper & Best Artifact Award** [[video]](https://www.youtube.com/watch?v=O6i2oCUhw-I)
 
-*   **Dai, J.**, Moffatt, K., Lin, J., and Truong, K. (2022). [Designing for relational maintenance: New directions for AAC research](https://dl.acm.org/doi/10.1145/3491102.3502011). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’22), 1‑15.
+*   **Dai, J.**, Moffatt, K., Lin, J., and Truong, K. (2022). [Designing for relational maintenance: New directions for AAC research](https://dl.acm.org/doi/10.1145/3491102.3502011). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’22), 1‑15. [[video]](https://www.youtube.com/watch?v=AaME95B8Sls&t=1s)
 
-*   **Dai, J.** and Moffatt, K. (2021). [Surfacing the voices of people with dementia: Strategies for effective inclusion of proxy stakeholders in qualitative research](https://dl.acm.org/doi/10.1145/3411764.3445756). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’21), 1‑13.
+*   **Dai, J.** and Moffatt, K. (2021). [Surfacing the voices of people with dementia: Strategies for effective inclusion of proxy stakeholders in qualitative research](https://dl.acm.org/doi/10.1145/3411764.3445756). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’21), 1‑13. [[video]](https://www.youtube.com/watch?v=t19SjXbM9Ro&t=26s)
 
-*   Pang, C., Wang, Z. C., McGrenere, J., Leung, R., **Dai, J.**, and Moffatt, K. (2021). [Technology adoption and learning preferences for older adults: Evolving perceptions, ongoing challenges, and emerging design opportunities](https://dl.acm.org/doi/10.1145/3411764.3445702). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’21), 1‑13. 
+*   Pang, C., Wang, Z. C., McGrenere, J., Leung, R., **Dai, J.**, and Moffatt, K. (2021). [Technology adoption and learning preferences for older adults: Evolving perceptions, ongoing challenges, and emerging design opportunities](https://dl.acm.org/doi/10.1145/3411764.3445702). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’21), 1‑13. [[video]](https://www.youtube.com/watch?v=1NZfuBSl6cU)
 
 *   **Dai, J.** and Moffatt, K. (2020). [Making space for social sharing: Insights from a community‑based social group for people with dementia](https://dl.acm.org/doi/10.1145/3313831.3376133). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’20), 1‑13.
 
