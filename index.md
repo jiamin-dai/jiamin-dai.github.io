@@ -66,7 +66,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 *   Tanprasert, T., **Dai, J.**, and McGrenere, J. (2024). [HelpCall: Designing informal technology assistance for older adults via videoconferencing](https://dl.acm.org/doi/10.1145/3613904.3642938). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’24), 1–23.
 
-*   Marino, D., **Dai, J.**, Fortin, P., Henry, M., and Cooperstock, J. (2024). Co‑Here: An expressive videoconferencing module for implicit affective interaction. Proceedings of the Graphics Interface Conference (GI’24), 1–13. doi: 10.1145/3670947.3670975
+*   Marino, D., **Dai, J.**, Fortin, P., Henry, M., and Cooperstock, J. (2024). [Co‑Here: An expressive videoconferencing module for implicit affective interaction](https://dl.acm.org/doi/10.1145/3670947.3670975). _Proceedings of the Graphics Interface Conference_ (GI’24), 1–13.
 
 *   **Dai, J.**, Miedema, J., Hernandez, S., Sutton‑Lalani, A., and Moffatt, K. (2023). Cognitive accessibility of digital payments: A literature review. Proceedings of 20th International Web for All Conference (W4A’23), 116–121. doi: 10.1145/3587281.3587294 _Best Communication Paper Nominee_
 
