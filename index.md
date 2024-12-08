@@ -2,7 +2,7 @@
 
 Aging and Accessibility | Dementia and Cognitive Diversity | Social Computing | Financial Technology
 
-## Selected projects
+## Selected Projects
 
 Supporting older adults in online banking
 
@@ -45,22 +45,22 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 ## News
 ### 2024:
 
-*   NOV: collaborates on a new AGE-WELL grant with Joanna McGrenere and Vered Shwartz
-*   OCT: co-organizes a fintech workshop at ASSETS’24
-*   MAY: serves on the ASSETS'24 Program Committee
-*   MAY: attends CHI'24 in Honolulu
-*   MAY: presents at the AGE-WELL EPIC Conference
-*   APR: speaks at the Thesis Finishers’ Roundtable by the McGill Writing Centre
-*   FEB: attends the DFP Hackathon at the University of Victoria
+*   NOV: collaborate on a new AGE-WELL grant with Joanna McGrenere and Vered Shwartz
+*   OCT: co-organize a fintech workshop at ASSETS’24
+*   MAY: serve on the ASSETS'24 Program Committee
+*   MAY: attend CHI'24 in Honolulu
+*   MAY: present at the AGE-WELL EPIC Conference
+*   APR: speak at the Thesis Finishers’ Roundtable by the McGill Writing Centre
+*   FEB: attend the DFP Hackathon at the University of Victoria
 
 ### 2023:
 
-*   OCT: attends the AGE-WELL annual conference in Toronto
-*   SEPT: serves on the CHI’24 Program Committee
+*   OCT: attend the AGE-WELL annual conference in Toronto
+*   SEPT: serve on the CHI’24 Program Committee
 *   SEPT: awarded an EPIC-AT postdoctoral fellowship
-*   JULY: joins UBC CS as an NSERC postdoctoral fellow
+*   JULY: join UBC CS as an NSERC postdoctoral fellow
 
-## Publications
+## Selected Publications
 
 *   **Dai, J.**, Gorman, B. M., Tigwell, G. W., Lyhme, H., Barros Pena, B., Moffatt, K., and Latulipe, C. (2024). accessFinTech: Designing accessible financial technology. The 26th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ’24), 5 pages. doi: 10.1145/3663548.3688551
 
@@ -85,8 +85,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 *   Pang, C., Wang, Z. C., McGrenere, J., Leung, R., **Dai, J.**, and Moffatt, K. (2021). Technology adoption and learning preferences for older adults: Evolving perceptions, ongoing challenges, and emerging design opportunities. Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI’21), 1‑13. doi: 10.1145/3411764.3445702
 
 *   **Dai, J.** and Moffatt, K. (2020). Making space for social sharing: Insights from a community‑based social group for people with dementia. Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI’20), 1‑13. doi:10.1145/3313831.3376133 (Acceptance rate = 647/3126 = 20.7%)
-
-*   **Dai, J.** (2020). Empowering people with dementia to share and socialize. ACM SIGACCESS Accessibility and Computing (126), Article 3. doi: 10.1145/3386280.3386283
 
 *   **Dai, J.**, Granikov, V., El Sherif, R., Grguric, E., Turcotte, E., and Pluye, P. (2019). Patient Information Aid: An innovative educational program to improve outcomes of online consumer health information. Education for Information, 35(1), 41‑49. doi: 10.3233/EFI‑18021
 
@@ -152,7 +150,6 @@ end
   - level 2 item
 - level 1 item
 -->
-
 
 <!---
 
