@@ -10,6 +10,8 @@ Enrich social sharing for dementia
 
 Promoting eHealth literacy
 
+## [Academic CV](./CV20241207.pdf)
+
 <!---
 ---
 Human-Computer Interaction: Accessibility | Aging and Dementia | Social Computing | Financial Technology
