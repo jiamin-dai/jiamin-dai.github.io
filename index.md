@@ -23,7 +23,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 -->
 
 
-## Awards ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+## Awards ![awards](/assets/img/)
 
 > Natural Sciences and Engineering Research Council of Canada (NSERC) Postdoctoral Fellowship 2023-25
 > 
@@ -35,7 +35,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 > 
 > FRQNT Doctoral Scholarship 2019-22
 
-## Degrees ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+## Degrees <img src="/assets/img/undraw_degree_education_f8ru.png" width="64">
 
 > Ph.D. in Information Studies, McGill University
 > 
@@ -43,7 +43,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 > 
 > B.Sc. in Educational Technology, Shanghai International Studies University
 
-## News ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+## News <img src="/assets/img/undraw_news_Happy_news_re_tsbd.png" width="64">
 
 ### 2024:
 
@@ -62,7 +62,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 *   SEPT: awarded an EPIC-AT postdoctoral fellowship
 *   JULY: join UBC CS as an NSERC postdoctoral fellow
 
-## Selected Publications
+## Selected Publications <img src="/assets/img/undraw_pub_My_documents_re_13dc.png" width="64">
 
 *   **Dai, J.**, Gorman, B. M., Tigwell, G. W., Lyhme, H., Barros Pena, B., Moffatt, K., and Latulipe, C. (2024). <a href="https://dl.acm.org/doi/10.1145/3663548.3688551">accessFinTech: Designing accessible financial technology</a>. _The 26th International ACM SIGACCESS Conference on Computers and Accessibility_ (ASSETS ’24), 5 pages.
 
