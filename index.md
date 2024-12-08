@@ -74,19 +74,19 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 *   **Dai, J.** and Moffatt, K. (2023). [Enriching social sharing for the dementia community: Insights from in‑person and online social programs](https://dl.acm.org/doi/10.1145/3582558). _ACM Transactions on Accessible Computing (TACCESS)_, 16(1), Article 11 (March 2023), 33 pages.
 
-*   **Dai, J.**, Bartlett, J. C., and Moffatt, K. (2023). Library services enriching community engagement for dementia care: The Tales & Travels Program at a Canadian Public Library as a case study. Journal of Librarianship and Information Science, 55(1), 123–136. doi:10.1177/09610006211065170
+*   **Dai, J.**, Bartlett, J. C., and Moffatt, K. (2023). [Library services enriching community engagement for dementia care: The Tales & Travels Program at a Canadian Public Library as a case study](https://journals.sagepub.com/doi/full/10.1177/09610006211065170). Journal of Librarianship and Information Science, 55(1), 123–136.
 
-*   Fontana de Vargas, M., **Dai, J.**, and Moffatt, K. (2022). AAC with automated vocabulary from photographs: Insights from school and speech‑language therapy settings. Proceedings of the ACM SIGACCESS Conference on Computers and Accessibility (ASSETS’22), 1‑18. doi: 10.1145/3517428.3544805 (Acceptance rate = 35/132 = 26.5%) _Best Student Paper & Best Artifact Award_
+*   Fontana de Vargas, M., **Dai, J.**, and Moffatt, K. (2022). [AAC with automated vocabulary from photographs: Insights from school and speech‑language therapy settings](https://dl.acm.org/doi/10.1145/3517428.3544805). _Proceedings of the ACM SIGACCESS Conference on Computers and Accessibility_ (ASSETS’22), 1‑18. _Best Student Paper & Best Artifact Award_
 
-*   **Dai, J.**, Moffatt, K., Lin, J., and Truong, K. (2022). Designing for relational maintenance: New directions for AAC research. Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI’22), 1‑15. doi: 10.1145/3491102.3502011 (Accepted with minor revision = 324/2597 = 12.5%)
+*   **Dai, J.**, Moffatt, K., Lin, J., and Truong, K. (2022). [Designing for relational maintenance: New directions for AAC research](https://dl.acm.org/doi/10.1145/3491102.3502011). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’22), 1‑15.
 
-*   **Dai, J.** and Moffatt, K. (2021). Surfacing the voices of people with dementia: Strategies for effective inclusion of proxy stakeholders in qualitative research. Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI’21), 1‑13. doi:10.1145/3411764.3445756 (Acceptance rate = 749/2844 = 26.3%)
+*   **Dai, J.** and Moffatt, K. (2021). [Surfacing the voices of people with dementia: Strategies for effective inclusion of proxy stakeholders in qualitative research](https://dl.acm.org/doi/10.1145/3411764.3445756). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’21), 1‑13.
 
-*   Pang, C., Wang, Z. C., McGrenere, J., Leung, R., **Dai, J.**, and Moffatt, K. (2021). Technology adoption and learning preferences for older adults: Evolving perceptions, ongoing challenges, and emerging design opportunities. Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI’21), 1‑13. doi: 10.1145/3411764.3445702
+*   Pang, C., Wang, Z. C., McGrenere, J., Leung, R., **Dai, J.**, and Moffatt, K. (2021). [Technology adoption and learning preferences for older adults: Evolving perceptions, ongoing challenges, and emerging design opportunities](https://dl.acm.org/doi/10.1145/3411764.3445702). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’21), 1‑13. 
 
-*   **Dai, J.** and Moffatt, K. (2020). Making space for social sharing: Insights from a community‑based social group for people with dementia. Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI’20), 1‑13. doi:10.1145/3313831.3376133 (Acceptance rate = 647/3126 = 20.7%)
+*   **Dai, J.** and Moffatt, K. (2020). [Making space for social sharing: Insights from a community‑based social group for people with dementia](https://dl.acm.org/doi/10.1145/3313831.3376133). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’20), 1‑13.
 
-*   **Dai, J.**, Granikov, V., El Sherif, R., Grguric, E., Turcotte, E., and Pluye, P. (2019). Patient Information Aid: An innovative educational program to improve outcomes of online consumer health information. Education for Information, 35(1), 41‑49. doi: 10.3233/EFI‑18021
+*   **Dai, J.**, Granikov, V., El Sherif, R., Grguric, E., Turcotte, E., and Pluye, P. (2019). [Patient Information Aid: An innovative educational program to improve outcomes of online consumer health information](https://content.iospress.com/articles/education-for-information/efi180215). _Education for Information_, 35(1), 41‑49. 
 
 <!---
 ### Header 3
