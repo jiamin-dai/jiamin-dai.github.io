@@ -6,11 +6,11 @@ My research in HUMAN-COMPUTER INTERACTION (HCI) explores how technology can be d
 
 ## Selected Projects
 
-Supporting older adults in online banking
+- Supporting older adults in online banking
 
-Enriching social sharing for the dementia community
+- Enriching social sharing for the dementia community
 
-Promoting eHealth literacy
+- Promoting eHealth literacy
 
 ## [Academic CV](./CV20241207.pdf)
 
@@ -156,9 +156,6 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
--->
-
-<!---
 
 ### Small image
 
