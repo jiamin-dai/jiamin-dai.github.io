@@ -178,9 +178,6 @@ end
 </dl>
 
 ```
-Proud member of the eDAPT Lab led by Dr Joanna McGrenere 
+Proud member of [the eDAPT Lab](www.cs.ubc.ca/labs/edapt) led by Dr Joanna McGrenere 
 ```
 
-```
-www.cs.ubc.ca/labs/edapt
-```
