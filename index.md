@@ -1,6 +1,6 @@
 # Human-Computer Interaction
 
-Accessibility | Aging and Dementia | Social Computing | Financial Technology
+Aging & Accessibility | Dementia & Cognitive Diversity | Social Computing | Financial Technology
 
 ## Selected projects
 
