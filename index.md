@@ -1,7 +1,8 @@
 ---
-layout: default
+Human-Computer Interaction: Accessibility | Aging and Dementia | Social Computing | Financial Technology
 ---
 
+<!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -9,6 +10,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+-->
 
 # Reserach
 
@@ -45,6 +47,7 @@ Promoting eHealth literacy
 *   OCT: co-organizes a fintech workshop at ASSETS’24
 *   MAY: serves on the ASSETS'24 Program Committee
 *   MAY: attends CHI'24 in Honolulu
+*   MAY: presents at the AGE-WELL EPIC Conference
 *   APR: speaks at the Thesis Finishers’ Roundtable by the McGill Writing Centre
 *   FEB: attends the DFP Hackathon at the University of Victoria
 
@@ -52,8 +55,38 @@ Promoting eHealth literacy
 
 *   OCT: attends the AGE-WELL annual conference in Toronto
 *   SEPT: serves on the CHI’24 Program Committee
+*   SEPT: awarded an EPIC-AT postdoctoral fellowship
+*   JULY: joins UBC CS as an NSERC postdoctoral fellow
 
+## Publications
 
+*   **Dai, J.**, Gorman, B. M., Tigwell, G. W., Lyhme, H., Barros Pena, B., Moffatt, K., and Latulipe, C. (2024). accessFinTech: Designing accessible financial technology. The 26th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ’24), 5 pages. doi: 10.1145/3663548.3688551
+
+*   Tanprasert, T., **Dai, J.**, and McGrenere, J. (2024). HelpCall: Designing informal technology assistance for older adults via videoconferencing. Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI’24), 1–23. doi:10.1145/3613904.3642938
+
+*   Marino, D., **Dai, J.**, Fortin, P., Henry, M., and Cooperstock, J. (2024). Co‑Here: An expressive videoconferencing module for implicit affective interaction. Proceedings of the Graphics Interface Conference (GI’24), 1–13. doi: 10.1145/3670947.3670975
+
+*   **Dai, J.**, Miedema, J., Hernandez, S., Sutton‑Lalani, A., and Moffatt, K. (2023). Cognitive accessibility of digital payments: A literature review. Proceedings of 20th International Web for All Conference (W4A’23), 116–121. doi: 10.1145/3587281.3587294 _Best Communication Paper Nominee_
+
+*   Sutton‑Lalani, A., Hernandez, S., Miedema, J., **Dai, J.**, and Omrane, B. (2023). Redefining financial inclusion for a digital age: Implications for a Central Bank Digital Currency. Bank of Canada Staff Discussion Paper, 23 pages. doi: 10.34989/sdp‑2
+
+*   **Dai, J.** and Moffatt, K. (2023). Enriching social sharing for the dementia community: Insights from in‑person and online social programs. ACM Transactions on Accessible Computing (TACCESS), 16(1), Article 11 (March 2023), 33 pages. doi: 10.1145/3582558
+
+*   **Dai, J.**, Bartlett, J. C., and Moffatt, K. (2023). Library services enriching community engagement for dementia care: The Tales & Travels Program at a Canadian Public Library as a case study. Journal of Librarianship and Information Science, 55(1), 123–136. doi:10.1177/09610006211065170
+
+*   Fontana de Vargas, M., **Dai, J.**, and Moffatt, K. (2022). AAC with automated vocabulary from photographs: Insights from school and speech‑language therapy settings. Proceedings of the ACM SIGACCESS Conference on Computers and Accessibility (ASSETS’22), 1‑18. doi: 10.1145/3517428.3544805 (Acceptance rate = 35/132 = 26.5%) _Best Student Paper & Best Artifact Award_
+
+*   **Dai, J.**, Moffatt, K., Lin, J., and Truong, K. (2022). Designing for relational maintenance: New directions for AAC research. Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI’22), 1‑15. doi: 10.1145/3491102.3502011 (Accepted with minor revision = 324/2597 = 12.5%)
+
+*   **Dai, J.** and Moffatt, K. (2021). Surfacing the voices of people with dementia: Strategies for effective inclusion of proxy stakeholders in qualitative research. Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI’21), 1‑13. doi:10.1145/3411764.3445756 (Acceptance rate = 749/2844 = 26.3%)
+
+*   Pang, C., Wang, Z. C., McGrenere, J., Leung, R., **Dai, J.**, and Moffatt, K. (2021). Technology adoption and learning preferences for older adults: Evolving perceptions, ongoing challenges, and emerging design opportunities. Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI’21), 1‑13. doi: 10.1145/3411764.3445702
+
+*   **Dai, J.** and Moffatt, K. (2020). Making space for social sharing: Insights from a community‑based social group for people with dementia. Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI’20), 1‑13. doi:10.1145/3313831.3376133 (Acceptance rate = 647/3126 = 20.7%)
+
+*   **Dai, J.** (2020). Empowering people with dementia to share and socialize. ACM SIGACCESS Accessibility and Computing (126), Article 3. doi: 10.1145/3386280.3386283
+
+*   **Dai, J.**, Granikov, V., El Sherif, R., Grguric, E., Turcotte, E., and Pluye, P. (2019). Patient Information Aid: An innovative educational program to improve outcomes of online consumer health information. Education for Information, 35(1), 41‑49. doi: 10.3233/EFI‑18021
 
 <!---
 ### Header 3
@@ -131,10 +164,9 @@ end
 
 -->
 
-### Contact me
 
 * * *
-
+### Contact me
 <dl>
 <dt></dt>
 <dd>jdai24@cs.ubc.ca</dd>
