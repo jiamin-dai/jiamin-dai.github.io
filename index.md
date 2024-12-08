@@ -8,7 +8,7 @@ My research in HUMAN-COMPUTER INTERACTION (HCI) explores how technology can be d
 
 Supporting older adults in online banking
 
-Enrich social sharing for the dementia community
+Enriching social sharing for the dementia community
 
 Promoting eHealth literacy
 
