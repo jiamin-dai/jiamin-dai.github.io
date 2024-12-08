@@ -25,7 +25,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 -->
 
 
-## <img src="/assets/img/undraw_awards_Balloons_re_8ymj.png" width="64"> Awards 
+## <img src="/assets/img/undraw_awards_Balloons_re_8ymj.png" width="96"> Awards 
 
 > Natural Sciences and Engineering Research Council of Canada (NSERC) Postdoctoral Fellowship 2023-25
 > 
@@ -37,7 +37,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 > 
 > FRQNT Doctoral Scholarship 2019-22
 
-## <img src="/assets/img/undraw_degree_education_f8ru.png" width="64"> Degrees 
+## <img src="/assets/img/undraw_degree_education_f8ru.png" width="96"> Degrees 
 
 > Ph.D. in Information Studies, McGill University
 > 
@@ -45,7 +45,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 > 
 > B.Sc. in Educational Technology, Shanghai International Studies University
 
-## <img src="/assets/img/undraw_news_Happy_news_re_tsbd.png" width="64"> News 
+## <img src="/assets/img/undraw_news_Happy_news_re_tsbd.png" width="96"> News 
 
 ![@CHI'24 in Honolulu](/assets/img/CHI24.jpg)
 @CHI'24 in Honolulu
@@ -67,7 +67,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 *   SEPT: awarded an EPIC-AT postdoctoral fellowship
 *   JULY: join UBC CS as an NSERC postdoctoral fellow
 
-## <img src="/assets/img/undraw_pub_My_documents_re_13dc.png" width="64"> Selected Publications 
+## <img src="/assets/img/undraw_pub_My_documents_re_13dc.png" width="96"> Selected Publications 
 
 *   **Dai, J.**, Gorman, B. M., Tigwell, G. W., Lyhme, H., Barros Pena, B., Moffatt, K., and Latulipe, C. (2024). <a href="https://dl.acm.org/doi/10.1145/3663548.3688551">accessFinTech: Designing accessible financial technology</a>. _The 26th International ACM SIGACCESS Conference on Computers and Accessibility_ (ASSETS ’24), 5 pages.
 
