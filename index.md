@@ -57,7 +57,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 *   MAY: serve on the ASSETS'24 Program Committee
 *   MAY: attend CHI'24 in Honolulu
 *   MAY: present at the AGE-WELL EPIC Conference
-*   APR: speak at the Thesis Finishers’ Roundtable by the McGill Writing Centre
+*   APR: speak at the Thesis Finishers’ Roundtable, McGill Writing Centre
 *   FEB: attend the DFP Hackathon at the University of Victoria
 
 ### 2023:
