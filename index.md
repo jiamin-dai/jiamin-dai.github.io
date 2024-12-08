@@ -173,9 +173,10 @@ end
 <dd>X669 ICICS/CS</dd>
 <dd>Department of Computer Science</dd>
 <dd>University of British Columbia</dd>
+<dd>Proud member of <a href="https://www.cs.ubc.ca/labs/edapt">the eDAPT Lab</a> led by Dr Joanna McGrenere</dd>
 </dl>
 
 ```
-Proud member of <a href="https://www.cs.ubc.ca/labs/edapt">the eDAPT Lab</a>the eDAPT Lab led by Dr Joanna McGrenere 
+ 
 ```
 
