@@ -1,4 +1,4 @@
-# Human-Computer Interaction
+# Human-Computer Interaction Researcher
 
 Aging and Accessibility | Dementia and Cognitive Diversity | Social Computing | Financial Technology
 
