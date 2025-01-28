@@ -47,6 +47,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## <img src="/assets/img/undraw_news_Happy_news_re_tsbd.png" width="96"> News 
 
+### 2025:
+
+*   JAN: two papers accepted at CHI'25 and one paper accepted at CSCW'25
+
 ![@CHI'24 in Honolulu](/assets/img/CHI24.jpg)
 @CHI'24 in Honolulu
 
@@ -68,6 +72,12 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 *   JULY: join UBC CS as an NSERC postdoctoral fellow
 
 ## <img src="/assets/img/undraw_pub_My_documents_re_13dc.png" width="96"> Selected Publications 
+
+*   **Dai, J.**, and McGrenere, J. (2025). Envisioning Financial Technology Support for Older Adults Through Cognitive and Life Transitions, _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’25), to appear.
+
+*   Smith, K., Sien, S-W., **Dai, J.**, and McGrenere, J. (2025). Touching Experiences: How Older Adults Envision Ambient and Tangible Social Technology Through the Lens of Time, _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’25), to appear.
+  
+*   Liu, Z., **Dai, J.**, Conati, C., and McGrenere, J. (2025). Envisioning AI support during semi‑structured interviews across the expertise spectrum. _Proc. ACM Hum.‑Comput. Interact._ 9, 2, Article CSCW011 (April 2025), to appear.
 
 *   **Dai, J.**, Gorman, B. M., Tigwell, G. W., Lyhme, H., Barros Pena, B., Moffatt, K., and Latulipe, C. (2024). <a href="https://dl.acm.org/doi/10.1145/3663548.3688551">accessFinTech: Designing accessible financial technology</a>. _The 26th International ACM SIGACCESS Conference on Computers and Accessibility_ (ASSETS ’24), 5 pages.
 
