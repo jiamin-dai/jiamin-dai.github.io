@@ -49,7 +49,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### 2025:
 
-*   JAN: two papers accepted at CHI'25 and one paper accepted at CSCW'25
+*   JAN-FEB: two papers accepted at CHI'25 and two papers accepted at CSCW'25
 
 ![@CHI'24 in Honolulu](/assets/img/CHI24.jpg)
 @CHI'24 in Honolulu
