@@ -12,7 +12,7 @@ My research in HUMAN-COMPUTER INTERACTION (HCI) explores how technology can be d
 
 - Promoting eHealth literacy
 
-## [Academic CV](./CV20241207.pdf)
+## [Academic CV](./CV2025_JiaminDai.pdf)
 
 <!---
 ---
@@ -49,6 +49,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### 2025:
 
+*   MAR: receive UBC Postdoctoral Fellows Travel Awards
 *   JAN–FEB: two papers accepted at CHI'25 and two papers accepted at CSCW'25
 
 ![@CHI'24 in Honolulu](/assets/img/CHI24.jpg)
