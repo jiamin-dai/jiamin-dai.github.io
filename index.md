@@ -49,6 +49,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### 2025:
 
+*   MAR: guest lecture for CPSC444 Advanced Methods for Human‑Computer Interaction
 *   MAR: receive UBC Postdoctoral Fellows Travel Awards
 *   JAN–FEB: two papers accepted at CHI'25 and two papers accepted at CSCW'25
 
