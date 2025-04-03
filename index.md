@@ -76,6 +76,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## <img src="/assets/img/undraw_pub_My_documents_re_13dc.png" width="96"> Selected Publications 
 
+*  Tanprasert, T., **Dai, J.**, Tang, J., Inkpen, K., Cutrell, E., and McGrenere, J. (2025). FamilyDittos: Reimagining intergenerational
+interaction through mimetic agents. The 28th ACM SIGCHI Conference on Computer‑Supported Cooperative Work & Social
+Computing (CSCW ’25), 29 pages. To appear.
+
 *   **Dai, J.**, and McGrenere, J. (2025). Envisioning Financial Technology Support for Older Adults Through Cognitive and Life Transitions, _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’25), 24 pages.
 
 *   Smith, K., Sien, S-W., **Dai, J.**, and McGrenere, J. (2025). Touching Experiences: How Older Adults Envision Ambient and Tangible Social Technology Through the Lens of Time, _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’25), 24 pages.
