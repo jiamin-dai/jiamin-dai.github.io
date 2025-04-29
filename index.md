@@ -49,6 +49,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### 2025:
 
+*   MAY: co-lead [GI'25 course: Conducting and Evaluating Reflexive Thematic Analysis in HCI]()
 *   MAR: interviewed by students from SCIE300 Communicating Science
 *   MAR: guest lecture for CPSC444 Advanced Methods for Human‑Computer Interaction
 *   MAR: receive UBC Postdoctoral Fellows Travel Awards
