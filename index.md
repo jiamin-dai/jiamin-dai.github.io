@@ -49,14 +49,14 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### 2025:
 
-*   MAY: co-lead [GI'25 course: Conducting and Evaluating Reflexive Thematic Analysis in HCI]()
+*   MAY: co-lead [GI'25 course: Conducting and Evaluating Reflexive Thematic Analysis in HCI](https://sites.google.com/view/gi25-thematic-analysis-in-hci)
 *   MAR: interviewed by students from SCIE300 Communicating Science
 *   MAR: guest lecture for CPSC444 Advanced Methods for Human‑Computer Interaction
 *   MAR: receive UBC Postdoctoral Fellows Travel Awards
 *   JAN–FEB: two papers accepted at CHI'25 and two papers accepted at CSCW'25
 
-![@CHI'24 in Honolulu](/assets/img/CHI24.jpg)
-@CHI'24 in Honolulu
+#![@CHI'24 in Honolulu](/assets/img/CHI24.jpg)
+#@CHI'24 in Honolulu
 
 ### 2024:
 
