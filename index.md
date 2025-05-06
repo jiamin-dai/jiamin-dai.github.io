@@ -55,9 +55,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 *   MAR: receive UBC Postdoctoral Fellows Travel Awards
 *   JAN–FEB: two papers accepted at CHI'25 and two papers accepted at CSCW'25
 
-#![@CHI'24 in Honolulu](/assets/img/CHI24.jpg)
-#@CHI'24 in Honolulu
-
 ### 2024:
 
 *   NOV: collaborate on a newly awarded AGE-WELL grant with Joanna McGrenere and Vered Shwartz
