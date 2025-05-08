@@ -109,9 +109,13 @@ Computing_ (CSCW ’25), 29 pages. To appear.
 
 *   **Dai, J.** and Moffatt, K. (2020). [Making space for social sharing: Insights from a community‑based social group for people with dementia](https://dl.acm.org/doi/10.1145/3313831.3376133). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’20), 1‑13.
 
-*   **Dai, J.**, Granikov, V., El Sherif, R., Grguric, E., Turcotte, E., and Pluye, P. (2019). [Patient Information Aid: An innovative educational program to improve outcomes of online consumer health information](https://content.iospress.com/articles/education-for-information/efi180215). _Education for Information_, 35(1), 41‑49. 
 
 <!---
+
+*   **Dai, J.**, Granikov, V., El Sherif, R., Grguric, E., Turcotte, E., and Pluye, P. (2019). [Patient Information Aid: An innovative educational program to improve outcomes of online consumer health information](https://content.iospress.com/articles/education-for-information/efi180215). _Education for Information_, 35(1), 41‑49. 
+
+![@CHI'24 in Honolulu](/assets/img/CHI24.jpg)
+@CHI'24 in Honolulu
 ### Header 3
 
 ```js
