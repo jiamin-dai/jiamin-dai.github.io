@@ -78,9 +78,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 interaction through mimetic agents. _The 28th ACM SIGCHI Conference on Computer‑Supported Cooperative Work & Social
 Computing_ (CSCW ’25), 29 pages. To appear.
 
-*   **Dai, J.**, and McGrenere, J. (2025). [Envisioning Financial Technology Support for Older Adults Through Cognitive and Life Transitions](https://dl.acm.org/doi/10.1145/3706598.3713427). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’25), 24 pages.
+*   **Dai, J.**, and McGrenere, J. (2025). [Envisioning Financial Technology Support for Older Adults Through Cognitive and Life Transitions](https://dl.acm.org/doi/10.1145/3706598.3713427). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’25), 24 pages. [[video]]()
 
-*   Smith, K., Sien, S-W., **Dai, J.**, and McGrenere, J. (2025). [Touching Experiences: How Older Adults Envision Ambient and Tangible Social Technology Through the Lens of Time](https://dl.acm.org/doi/10.1145/3706598.3714302). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’25), 24 pages.
+*   Smith, K., Sien, S-W., **Dai, J.**, and McGrenere, J. (2025). [Touching Experiences: How Older Adults Envision Ambient and Tangible Social Technology Through the Lens of Time](https://dl.acm.org/doi/10.1145/3706598.3714302). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’25), 24 pages. [[video]]()
   
 *   Liu, Z., **Dai, J.**, Conati, C., and McGrenere, J. (2025). [Envisioning AI support during semi‑structured interviews across the expertise spectrum](https://dl.acm.org/doi/10.1145/3710909). _Proc. ACM Hum.‑Comput. Interact._ 9, 2, Article CSCW011 (May 2025), 29 pages.
 
@@ -89,11 +89,7 @@ Computing_ (CSCW ’25), 29 pages. To appear.
 *   Tanprasert, T., **Dai, J.**, and McGrenere, J. (2024). [HelpCall: Designing informal technology assistance for older adults via videoconferencing](https://dl.acm.org/doi/10.1145/3613904.3642938). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’24), 1–23. 
  [[video]](https://www.youtube.com/watch?v=GBnbOQWjn0k)
 
-*   Marino, D., **Dai, J.**, Fortin, P., Henry, M., and Cooperstock, J. (2024). [Co‑Here: An expressive videoconferencing module for implicit affective interaction](https://dl.acm.org/doi/10.1145/3670947.3670975). _Proceedings of the Graphics Interface Conference_ (GI’24), 1–13.
-
 *   **Dai, J.**, Miedema, J., Hernandez, S., Sutton‑Lalani, A., and Moffatt, K. (2023). [Cognitive accessibility of digital payments: A literature review](https://dl.acm.org/doi/10.1145/3587281.3587294). _Proceedings of 20th International Web for All Conference_ (W4A’23), 116–121. **Best Communication Paper Nominee**
-
-*   Sutton‑Lalani, A., Hernandez, S., Miedema, J., **Dai, J.**, and Omrane, B. (2023). [Redefining financial inclusion for a digital age: Implications for a Central Bank Digital Currency](https://www.bankofcanada.ca/2023/10/staff-discussion-paper-2023-22/). _Bank of Canada Staff Discussion Paper_, 23 pages.
 
 *   **Dai, J.** and Moffatt, K. (2023). [Enriching social sharing for the dementia community: Insights from in‑person and online social programs](https://dl.acm.org/doi/10.1145/3582558). _ACM Transactions on Accessible Computing (TACCESS)_, 16(1), Article 11 (March 2023), 33 pages.
 
@@ -111,6 +107,9 @@ Computing_ (CSCW ’25), 29 pages. To appear.
 
 
 <!---
+*   Marino, D., **Dai, J.**, Fortin, P., Henry, M., and Cooperstock, J. (2024). [Co‑Here: An expressive videoconferencing module for implicit affective interaction](https://dl.acm.org/doi/10.1145/3670947.3670975). _Proceedings of the Graphics Interface Conference_ (GI’24), 1–13.
+
+*   Sutton‑Lalani, A., Hernandez, S., Miedema, J., **Dai, J.**, and Omrane, B. (2023). [Redefining financial inclusion for a digital age: Implications for a Central Bank Digital Currency](https://www.bankofcanada.ca/2023/10/staff-discussion-paper-2023-22/). _Bank of Canada Staff Discussion Paper_, 23 pages.
 
 *   **Dai, J.**, Granikov, V., El Sherif, R., Grguric, E., Turcotte, E., and Pluye, P. (2019). [Patient Information Aid: An innovative educational program to improve outcomes of online consumer health information](https://content.iospress.com/articles/education-for-information/efi180215). _Education for Information_, 35(1), 41‑49. 
 
