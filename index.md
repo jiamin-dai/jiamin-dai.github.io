@@ -49,6 +49,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### 2025:
 
+*   JUL: complete the Faculty Instructional Skills Workshop
 *   JUN: give an invited talk at the Visual & Interactive Computing Institute (VINCI), Simon Fraser University
 *   MAY: co-lead [GI'25 course: Conducting and Evaluating Reflexive Thematic Analysis in HCI](https://sites.google.com/view/gi25-thematic-analysis-in-hci)
 *   MAR: interviewed by students from SCIE300 Communicating Science
