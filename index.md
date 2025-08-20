@@ -12,7 +12,7 @@ My research in HUMAN-COMPUTER INTERACTION (HCI) explores how technology can be d
 
 - Promoting eHealth literacy
 
-## [Academic CV](./CV2025_JiaminDai.pdf)
+## [Academic CV](./CV202508_JiaminDai.pdf)
 
 <!---
 ---
