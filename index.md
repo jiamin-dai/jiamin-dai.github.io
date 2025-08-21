@@ -77,9 +77,12 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## <img src="/assets/img/undraw_pub_My_documents_re_13dc.png" width="96"> Selected Publications 
 
+*  Haque, I., **Dai, J.**, and McGrenere, J. (2025). Envisioning interventions to combat misinformation propagation on social media:
+Insights from older adults’ approaches to credibility assessment. _Proc. ACM Hum.‑Comput. Interact._ 9, 7, Article CSCW409 (November
+2025), 37 pages.
+   
 *  Tanprasert, T., **Dai, J.**, Tang, J., Inkpen, K., Cutrell, E., and McGrenere, J. (2025). FamilyDittos: Reimagining intergenerational
-interaction through mimetic agents. _The 28th ACM SIGCHI Conference on Computer‑Supported Cooperative Work & Social
-Computing_ (CSCW ’25), 29 pages. To appear.
+interaction through mimetic agents. _Proc. ACM Hum.‑Comput. Interact._ 9, 7, Article CSCW419 (November 2025), 31 pages.
 
 *   **Dai, J.**, and McGrenere, J. (2025). [Envisioning Financial Technology Support for Older Adults Through Cognitive and Life Transitions](https://dl.acm.org/doi/10.1145/3706598.3713427). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’25), 24 pages. [[video]](https://www.youtube.com/watch?v=PC1cYRIBT60&ab_channel=ACMSIGCHI)
   
