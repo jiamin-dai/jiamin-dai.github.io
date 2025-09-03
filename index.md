@@ -86,7 +86,7 @@ interaction through mimetic agents. _Proc. ACM Hum.‑Comput. Interact._ 9, 7, A
 
 *   **Dai, J.**, and McGrenere, J. (2025). [Envisioning Financial Technology Support for Older Adults Through Cognitive and Life Transitions](https://dl.acm.org/doi/10.1145/3706598.3713427). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’25), 24 pages. [[video]](https://www.youtube.com/watch?v=PC1cYRIBT60&ab_channel=ACMSIGCHI)
   
-*   Smith, K., Sien, S-W., **Dai, J.**, and McGrenere, J. (2025). [Touching Experiences: How Older Adults Envision Ambient and Tangible Social Technology Through the Lens of Time](https://dl.acm.org/doi/10.1145/3706598.3714302). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’25), 24 pages. [[video]](https://www.youtube.com/watch?v=TLm-d9Cc0KI&ab_channel=ACMSIGCHI)
+*   Smith, K., Sien, S., **Dai, J.**, and McGrenere, J. (2025). [Touching Experiences: How Older Adults Envision Ambient and Tangible Social Technology Through the Lens of Time](https://dl.acm.org/doi/10.1145/3706598.3714302). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’25), 24 pages. [[video]](https://www.youtube.com/watch?v=TLm-d9Cc0KI&ab_channel=ACMSIGCHI)
      
 *   Liu, Z., **Dai, J.**, Conati, C., and McGrenere, J. (2025). [Envisioning AI support during semi‑structured interviews across the expertise spectrum](https://dl.acm.org/doi/10.1145/3710909). _Proc. ACM Hum.‑Comput. Interact._ 9, 2, Article CSCW011 (May 2025), 29 pages.
 
