@@ -49,7 +49,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### 2025:
 
-*   OCT: 2 honourable mentions at CSCW'25
+*   OCT: two honourable mentions at CSCW'25
 *   AUG: a third paper accepted at CSCW'25
 *   JUL: complete the Faculty Instructional Skills Workshop
 *   JUN: give an invited talk at the Visual & Interactive Computing Institute (VINCI), Simon Fraser University
