@@ -81,7 +81,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 *  Haque, I., **Dai, J.**, and McGrenere, J. (2025). Envisioning interventions to combat misinformation propagation on social media:
 Insights from older adults’ approaches to credibility assessment. _Proc. ACM Hum.‑Comput. Interact._ 9, 7, Article CSCW409 (November
-2025), 37 pages.
+2025), 37 pages. **Honourable Mention**
    
 *  Tanprasert, T., **Dai, J.**, Tang, J., Inkpen, K., Cutrell, E., and McGrenere, J. (2025). FamilyDittos: Reimagining intergenerational
 interaction through mimetic agents. _Proc. ACM Hum.‑Comput. Interact._ 9, 7, Article CSCW419 (November 2025), 31 pages.
@@ -90,7 +90,7 @@ interaction through mimetic agents. _Proc. ACM Hum.‑Comput. Interact._ 9, 7, A
   
 *   Smith, K., Sien, S., **Dai, J.**, and McGrenere, J. (2025). [Touching Experiences: How Older Adults Envision Ambient and Tangible Social Technology Through the Lens of Time](https://dl.acm.org/doi/10.1145/3706598.3714302). _Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems_ (CHI’25), 24 pages. [[video]](https://www.youtube.com/watch?v=TLm-d9Cc0KI&ab_channel=ACMSIGCHI)
      
-*   Liu, Z., **Dai, J.**, Conati, C., and McGrenere, J. (2025). [Envisioning AI support during semi‑structured interviews across the expertise spectrum](https://dl.acm.org/doi/10.1145/3710909). _Proc. ACM Hum.‑Comput. Interact._ 9, 2, Article CSCW011 (May 2025), 29 pages.
+*   Liu, Z., **Dai, J.**, Conati, C., and McGrenere, J. (2025). [Envisioning AI support during semi‑structured interviews across the expertise spectrum](https://dl.acm.org/doi/10.1145/3710909). _Proc. ACM Hum.‑Comput. Interact._ 9, 2, Article CSCW011 (May 2025), 29 pages. **Honourable Mention**
 
 *   **Dai, J.**, Gorman, B. M., Tigwell, G. W., Lyhme, H., Barros Pena, B., Moffatt, K., and Latulipe, C. (2024). <a href="https://dl.acm.org/doi/10.1145/3663548.3688551">accessFinTech: Designing accessible financial technology</a>. _The 26th International ACM SIGACCESS Conference on Computers and Accessibility_ (ASSETS ’24), 5 pages.
 
