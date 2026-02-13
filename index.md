@@ -47,6 +47,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## <img src="/assets/img/undraw_news_Happy_news_re_tsbd.png" width="96"> News 
 
+### 2026:
+
+*   FEB: guest lecture for CS377Q Designing for Accessibility, Stanford University
+  
 ### 2025:
 
 *   OCT: two honourable mentions at CSCW'25
