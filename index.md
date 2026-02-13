@@ -49,7 +49,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### 2026:
 
-*   FEB: guest lecture for CS377Q Designing for Accessibility, Stanford University
+*   FEB: guest lecture for CS377Q/ME214 Designing for Accessibility, Stanford University
   
 ### 2025:
 
