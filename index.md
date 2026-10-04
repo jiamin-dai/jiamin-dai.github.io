@@ -49,6 +49,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### 2026:
 
+*   OCT: join U of A CS as a postdoctoral scholar
+*   JUN: co-organize [GI'26 special session: Building Accessibility Research Capacity in Canada](https://sites.google.com/view/gi26accessibility/home)
 *   FEB: guest lecture for CS377Q/ME214 Designing for Accessibility, Stanford University
   
 ### 2025:
