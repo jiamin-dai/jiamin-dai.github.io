@@ -209,12 +209,11 @@ end
 <dd>dai17@ualberta.ca</dd>
 <dd>Department of Computing Science</dd>
 <dd>University of Alberta</dd>
-!<dd>Proud member of <a href="https://www.cs.ubc.ca/labs/edapt">the eDAPT Lab</a> led by Dr Joanna McGrenere</dd>
 </dl>
 
 <!---
 ```
- 
+<dd>Proud member of <a href="https://www.cs.ubc.ca/labs/edapt">the eDAPT Lab</a> led by Dr Joanna McGrenere</dd> 
 ```
 -->
 
